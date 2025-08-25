@@ -32,9 +32,9 @@ jobs:
     - name: Start application
       run: npm start
 module.exports = {
-  SESSION_ID: "",  // "malvin~92EBnKgI#ArvU-pFWV9pNzSrzQXYkQrzZLI-PUysecitKlGp4pDU"
+  SESSION_ID: // "malvin~92EBnKgI#ArvU-pFWV9pNzSrzQXYkQrzZLI-PUysecitKlGp4pDU"
   
-  OWNER_NUMBER: "263714757857", // "263787856324"
+  OWNER_NUMBER: // "263787856324"
   
   PREFIX: ".", // prefix (e.g., ., /, !, *)
   
