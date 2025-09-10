@@ -106,7 +106,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </div>
 
 
-
+<a href="https://github.com/XdKing2/MALVIN-BXD/"><img src="https://img.shields.io/github/forks/XdKing2/MALVIN-BXD?style=for-the-badge&logo=github&color=4c1&label=Deploy%20Button-version" alt="Fork MALVIN-XD" /></a>
 
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
